@@ -1,0 +1,19 @@
+body {
+	margin-left: 5px;
+}
+iframe {
+	height: 500px;
+	width: 380px;
+}
+@media only screen and (min-width: 768px) {
+	body {
+		margin-left: 20px;
+	}
+	iframe {
+		height: 500px;
+		width: 1700px;
+	}
+	.next2 {
+		margin-right: 20px;
+	}
+}
